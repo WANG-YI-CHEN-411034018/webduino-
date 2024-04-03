@@ -16,7 +16,7 @@ https://drive.google.com/file/d/1uNSPjJOZHzxsxA90RvhYV-GCKEF1lVJ7/view?usp=drive
 ** 用戶界面:使用者可以點擊紅色按鈕來控制LED燈的開關  
 ![image](https://github.com/WANG-YI-CHEN-411034018/-Project/blob/main/IMG/1712142475056.jpg)    
 ** 事件處理器:當使用者觸發LED開關時，事件處理器將會記錄觸發的時間、觸發器種類與LED的開關  
-**超聲波感測器:當使用者在超聲波感應器感應範圍內15公分時，會觸發LED開關  
+** 超聲波感測器:當使用者在超聲波感應器感應範圍內15公分時，會觸發LED開關  
 ![image](https://github.com/WANG-YI-CHEN-411034018/-Project/blob/main/IMG/1712142488866.jpg)    
 ** LED燈: 可以由程式控制開關  
 ** webduino:用來與網路、LED燈、超聲波感測器設備連接與處理程式執行  
