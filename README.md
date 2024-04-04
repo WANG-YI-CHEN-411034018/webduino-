@@ -8,7 +8,7 @@ https://drive.google.com/file/d/1wabf-OdpnvittIR_xto539R9bcJGf7YB/view?usp=drive
 * 用google試算表來記錄
 https://drive.google.com/file/d/1uNSPjJOZHzxsxA90RvhYV-GCKEF1lVJ7/view?usp=drive_link
 ![image](https://github.com/WANG-YI-CHEN-411034018/-Project/blob/main/IMG/1712142799229.jpg)  
-* 系統操作流程說明
+* 系統操作流程說明:  
 將webduino設備組連接上網路，接上超聲波感測器和LED燈
 當使用者在超聲波感應器感應範圍內15公分時，會觸發LED開關，並記錄觸發的時間、觸發器種類與LED的開關
 或當使用者在電腦或手機上按下用戶界面上的按鈕時會觸發LED開關，並記錄觸發的時間、觸發器種類與LED的開關  
